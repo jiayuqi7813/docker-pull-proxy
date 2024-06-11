@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-zhangjiakou.aliyuncs.com/snowywar/home-assistant:2024.6
+searxng/searxng:latest registry.cn-zhangjiakou.aliyuncs.com/snowywar/searxng/searxng:latest
