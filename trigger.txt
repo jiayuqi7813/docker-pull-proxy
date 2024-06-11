@@ -1,1 +1,1 @@
-searxng/searxng:latest registry.cn-zhangjiakou.aliyuncs.com/snowywar/searxng:latest
+nginx:latest registry.cn-zhangjiakou.aliyuncs.com/snowywar/nginx:latest
