@@ -1,1 +1,1 @@
-nginx:latest registry.cn-zhangjiakou.aliyuncs.com/snowywar/nginx:latest
+synctvorg/synctv:latest registry.cn-zhangjiakou.aliyuncs.com/snowywar/synctv:latest
