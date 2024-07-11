@@ -1,1 +1,1 @@
-ubuntu:22.04 registry.cn-zhangjiakou.aliyuncs.com/snowywar/ubuntu:22.04
+alxchk/tc-linux64:latest registry.cn-zhangjiakou.aliyuncs.com/snowywar/tc-linux64:latest
