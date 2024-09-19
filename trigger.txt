@@ -1,1 +1,1 @@
-alxchk/tc-linux64:latest registry.cn-zhangjiakou.aliyuncs.com/snowywar/tc-linux64:latest
+snowywar/aquadx:v1.01 registry.cn-zhangjiakou.aliyuncs.com/snowywar/aquadx:v1.01
