@@ -1,1 +1,1 @@
-snowywar/aquadx:v1.01 registry.cn-zhangjiakou.aliyuncs.com/snowywar/aquadx:v1.01
+mariadb:latest registry.cn-zhangjiakou.aliyuncs.com/snowywar/mariadb:latest
