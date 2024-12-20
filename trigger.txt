@@ -1,1 +1,1 @@
-docker.io/wenyang0/codecv:latest registry.cn-zhangjiakou.aliyuncs.com/snowywar/codecv:latest
+docker.io/node:22 registry.cn-zhangjiakou.aliyuncs.com/snowywar/node:22
