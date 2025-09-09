@@ -1,1 +1,1 @@
-snowywar/obsidian-reader:latest registry.cn-zhangjiakou.aliyuncs.com/snowywar/obsidian-reader:latest
+postgres:alpine registry.cn-zhangjiakou.aliyuncs.com/snowywar/postgres:alpine
